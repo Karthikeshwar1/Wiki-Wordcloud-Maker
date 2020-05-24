@@ -1,0 +1,17 @@
+##########################################
+
+	WIKI-WORDCLOUD-MAKER
+
+##########################################
+
+
+How to run it?
+
+1. Install the requirements by running
+
+pip install –r requirements.txt
+
+
+2. Now run the python script
+
+python Wiki_Wordcloud_Maker.py
