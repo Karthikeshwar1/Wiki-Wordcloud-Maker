@@ -6,7 +6,7 @@ Creates a wordcloud image based on a given Wikipedia article
 
 After downloading the repository, install the requirements by navigating to the directory and :
 
-> pip install –r requirements.txt
+    pip install –r requirements.txt
 
 Now run Wiki-Wordcloud-Maker.py
 
