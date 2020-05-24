@@ -9,7 +9,6 @@ After downloading the repository, install the requirements by navigating to the 
     pip install –r requirements.txt
 
 That's it!
-
 Now run Wiki-Wordcloud-Maker.py
 
 
