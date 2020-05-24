@@ -10,6 +10,8 @@ After downloading the repository, install the requirements by navigating to the 
 
 Now run Wiki-Wordcloud-Maker.py
 
+
+
 ## Screenshots
 
 
