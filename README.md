@@ -26,14 +26,14 @@ Now run Wiki-Wordcloud-Maker.py
 
 This program was done using **PyQt5** for GUI and **wordcloud** library for creating the image.
 
-1. One of the best resources to get started with PyQt5 :
+*  One of the best resources to get started with PyQt5 :
    
    https://www.learnpyqt.com/
    
-2. PyQt5 official webiste :
+*  PyQt5 official webiste :
    
    https://www.riverbankcomputing.com/software/pyqt/
    
-3. Wordcloud :
+*  Wordcloud :
 
    https://github.com/amueller/word_cloud
